@@ -22,13 +22,13 @@ params:
   avatar: images/avatar.jpg
   copyright: Copyright © 2020 dssquad
   cover: images/vancouver.jpg
-  description: A minimalist theme for Hugo, build with Tailwind CSS.
+  description: This is a platform to document the project taken by dssquad to develop a solution of predicting crime rates in Buffalo city based on other known factors.
   email: email@xxxx.com
   fathomAnalytics:
     serverURL: analytics.example.com
     siteID: XXXXX
   github: XXXX
-  headline: This is a headline
+  headline: Data Project Documentation
   intro: yes
   linkedin: https://linkedin.com/in/XXXX
   ogImage: images/og_image.jpg
