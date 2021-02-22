@@ -1,9 +1,9 @@
 theme: bento
 languageCode: en-us
 baseurl: https://www.example.com/
-title: Bento
-author: Leonardo Faria
-copyright: MIT
+title: dssquad
+author: The dssquad Team
+copyright: dssquad
 taxonomies:
   category: categories
   disqusShortname: bento-hugo-theme
@@ -18,9 +18,9 @@ markup:
   highlight:
     style: github
 params:
-  authorBio: Bento is a doggo who likes to code. Follow him on <a href='#'>Twitter</a>
+  authorBio: dssquad is a group of data professionals building the future with data
   avatar: images/avatar.jpg
-  copyright: Copyright © 2020 Someone
+  copyright: Copyright © 2020 dssquad
   cover: images/vancouver.jpg
   description: A minimalist theme for Hugo, build with Tailwind CSS.
   email: email@xxxx.com
