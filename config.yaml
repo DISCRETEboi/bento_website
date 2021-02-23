@@ -19,7 +19,7 @@ markup:
     style: github
 params:
   authorBio: dssquad is a group of data professionals building the future with data
-  avatar: images/avatar.jpg
+  avatar: images/avatar.png
   copyright: Copyright © 2020 dssquad
   cover: images/vancouver.jpg
   description: This is a platform to document the project taken by dssquad to develop a solution of predicting crime rates in Buffalo city based on other known factors.
@@ -41,9 +41,12 @@ menu:
     - name: About
       url: /about
       weight: 1
-    - name: Archives
+    - name: Meet The Team
       url: /archives
-      weight: 1
-    - name: Source code
+      weight: 2
+    - name: Blogs
       url: https://github.com/leonardofaria/bento
-      weight: 1
+      weight: 3
+    - name: Archives
+      url: /about
+      weight: 4
